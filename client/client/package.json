@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "co": "sui-mono commit",
+    "commit": "sui-mono commit",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
